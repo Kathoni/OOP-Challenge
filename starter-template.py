@@ -6,20 +6,19 @@ class Pet:
         self.happiness = 5
         self.tricks = []
 
-    def eat(self):
+def eat(self):
         # TODO
 
-    def sleep(self):
+ def sleep(self):
         # TODO
-
-    def play(self):
+   def play(self):
         # TODO
 
     def train(self, trick):
         # TODO
 
-    def show_tricks(self):
+     def show_tricks(self):
         # TODO
 
-    def get_status(self):
-        # TODO
+      def get_status(self):
+          # TODO
